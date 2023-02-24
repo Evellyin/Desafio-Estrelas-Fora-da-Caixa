@@ -1,7 +1,9 @@
 # Desafio-Estrelas-Fora-da-Caixa
 
 ## 💻 Propósito 
-#### Em 2021, a empresa Zup Innovations lançou a quarta edição do projeto de formação de profissionais para o mercado de trabalho. Este projeto foi realizado com a intenção de testar o meu conhecimento e capacidade de desenvolvimento.
+#### Em 2021, a empresa Zup Innovations lançou a quarta edição do projeto de formação de profissionais para o mercado de trabalho. 
+
+#### Este desafio foi dado com o intuíto de testar minha capacidade de desenvolvimento e raciocínio lógico.
 
 
 ## 💬 O Desafio 
